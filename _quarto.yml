@@ -1,0 +1,14 @@
+project:
+  type: default
+
+format:
+  revealjs:
+    theme: serif
+    slide-number: true
+    code-line-numbers: true
+    highlight-style: github
+    width: 1920
+    height: 1080
+    margin: 0.02
+    css: custom.css
+    footer: " "

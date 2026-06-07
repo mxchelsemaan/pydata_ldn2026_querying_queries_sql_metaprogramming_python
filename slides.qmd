@@ -589,7 +589,7 @@ unused_ctes(parse("""
 :::
 ::::
 
-## FAQs {footer="[github.com/mxchelsemaan/pydata_ldn2026_querying_queries_sql_metaprogramming_python](https://github.com/mxchelsemaan/pydata_ldn2026_querying_queries_sql_metaprogramming_python)"}
+## FAQs
 
 - **Why not use LLMs?**
     - Deterministic > probabilistic
@@ -598,3 +598,7 @@ unused_ctes(parse("""
     - The middle ground is to use LLMs to write the tree functions
 - **Is Python the best suited language for this?**
     - Metaprogramming is best served by functional, homoiconic languages (Scheme, Clojure)
+
+::: footer
+[github.com/mxchelsemaan/pydata_ldn2026_querying_queries_sql_metaprogramming_python](https://github.com/mxchelsemaan/pydata_ldn2026_querying_queries_sql_metaprogramming_python)
+:::
