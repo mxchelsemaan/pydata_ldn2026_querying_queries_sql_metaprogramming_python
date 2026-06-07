@@ -589,7 +589,7 @@ unused_ctes(parse("""
 :::
 ::::
 
-## FAQs
+## FAQs {footer="[github.com/mxchelsemaan/pydata_ldn2026_querying_queries_sql_metaprogramming_python](https://github.com/mxchelsemaan/pydata_ldn2026_querying_queries_sql_metaprogramming_python)"}
 
 - **Why not use LLMs?**
     - Deterministic > probabilistic
