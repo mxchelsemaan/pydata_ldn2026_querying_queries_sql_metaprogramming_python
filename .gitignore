@@ -1,7 +1,6 @@
 # Quarto render output and caches
 /.quarto/
 /slides_files/
-slides.html
 slides.quarto_ipynb*
 
 # Local environment and editor state
@@ -12,3 +11,5 @@ checkpoints/
 # Personal / unrelated files
 resume.pdf
 *.mp4
+
+**/*.quarto_ipynb

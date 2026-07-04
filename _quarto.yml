@@ -3,6 +3,7 @@ project:
 
 format:
   revealjs:
+    embed-resources: true
     theme: serif
     slide-number: true
     code-line-numbers: true
