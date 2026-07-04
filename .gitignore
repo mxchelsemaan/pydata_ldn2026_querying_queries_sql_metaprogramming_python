@@ -13,3 +13,4 @@ resume.pdf
 *.mp4
 
 **/*.quarto_ipynb
+.DS_Store
