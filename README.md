@@ -1,6 +1,6 @@
 # Querying the queries
 
-Slides for my PyData London 2026 talk on SQL metaprogramming in Python.
+Slides for my [PyData London 2026 talk](https://www.youtube.com/watch?v=a2As90UbmcQ) on SQL metaprogramming in Python.
 
 To build:
 
