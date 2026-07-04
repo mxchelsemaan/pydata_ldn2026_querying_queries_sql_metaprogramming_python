@@ -100,7 +100,7 @@ A common data pipeline (anti-)pattern:
 -- Source
 CREATE TEMP TABLE a AS (...);
 
--- Intermediatary tables
+-- Intermediary tables
 CREATE TEMP TABLE b AS (SELECT ... FROM a ...);
 CREATE TEMP TABLE c AS (SELECT ... FROM a ...);
 
@@ -189,11 +189,11 @@ print("```")
 :::
 ::::
 
-## The downside of regex
+## Pitfalls
 
 - **Blind to structure**: Can't tell a real `FROM` from one inside a comment or string.
 - **Fragile to formatting**: Newlines, aliases, quoted identifiers all need new patterns.
-- **Read-only**: You can only match, not transform
+- **Read-only**: You can only match, not transform.
 - **Unreadable**: A "robust" `FROM` pattern looks like this:
 
 ```python

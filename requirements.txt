@@ -1,0 +1,4 @@
+jupyter
+sqloxide
+networkx
+matplotlib
